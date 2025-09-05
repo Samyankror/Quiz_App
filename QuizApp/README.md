@@ -31,4 +31,4 @@ npm install react-router-dom
 npm run dev
 
 
-# live link : https://quiz-app-ivory-two.vercel.app/
+# live link : https://quiz-app-nu-jade-97.vercel.app/quiz
